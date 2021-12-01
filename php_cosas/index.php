@@ -11,7 +11,7 @@ var_dump(resultado);
 
 ?>
 
-//barra de busqueda 
+//barra de busqueda ufa tengo que hacer esto
 
 <!DOCTYPE html>
 <html lang="es">
