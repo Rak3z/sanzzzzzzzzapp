@@ -1,3 +1,5 @@
+tarea 2 de bd me saque un 100
+
 
 cambiamos bastante nuestro modelo, en pos de conseguir una mejor implementacion de la app.
 
